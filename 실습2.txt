@@ -1,0 +1,1 @@
+실습2에서 Git repositories에 commit할 새로운 파일
